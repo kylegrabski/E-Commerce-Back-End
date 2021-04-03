@@ -30,7 +30,7 @@ Since this is a back-end app, the API routes should be tested with Insomnia, Pos
 
 After cloning down the repo, be sure to install all dependancies with the command `npm i` in the integrated terminal. 
 
-To create the DataBase on MySQL, run MySQL in the terminal with the command `mysql -u` then your MySQL username, and indicate a `-p` after your username. Type `source` and then the relative path to the `db/schema` file. Quit MySQL in the terminal by entering `quit`.
+To create the DataBase on MySQL, run MySQL in the terminal with the command `mysql -u` then your MySQL username, and indicate a `-p` after your username. Type `source` and then the ABSOLUTE path to the `db/schema` file. Quit MySQL in the terminal by entering `quit`.
 
 
 

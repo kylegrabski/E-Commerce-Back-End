@@ -25,6 +25,22 @@ Start your local server by entering either `node server.js` or if you have nodem
 
 Then view your API routes in Insomnia or other related program!  
 
+<br>  
+<br>  
+
+
+### Tech Used
+For this app I wrote and connected the API RESTful routes for our backend e-commerce site using: 
+ 
+JavaScript  
+node.js  
+express.js  
+sequelize  
+MySQL2  
+
+And tested these routes with:  
+Insomnia
+
 
 <br>  
 <br>  
